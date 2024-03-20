@@ -9,6 +9,8 @@ dependencies = [
     "jupyter>=1.0.0",
     "pandas>=2.2.1",
     "pygwalker>=0.4.7",
+    "scikit-learn>=1.4.1.post1",
+    "matplotlib>=3.8.3",
 ]
 readme = "README.md"
 requires-python = ">= 3.12"
